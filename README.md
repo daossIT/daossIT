@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+1. My education: specialized secondary education in the field of "Information Systems".
+2. Additional courses I took: closed course on information security (white hacker). The "Life" training company, where I received a lot of discoveries and knowledge about how to interact with people and express myself in society. And a little self-study on the www.root-me.org platform.
+3. Work experience: My work experience began with the "T1" company, where I developed websites, first for the company, and then for clients. There I became more familiar with html, css, JS and various CMS and additional libraries. As a result, I received the status of junior frontend developer. I am currently working for another company.
+4. A little about myself: I am currently studying to become an artificial intelligence developer. I have always dreamed of working in this direction, because I believe that this is the future. I am also interested in information security, in which I managed to make a little progress and understand what it is and what it is used for. I love communication with the team, there is a team spirit.
+5. Key skills: css, html, jquery (library), JS... will be added.
+6. 📫 How to reach me: carpovnickita@gmail.com - my mail, VK: https://m.vk.com/heavenly_lucky, Telegram: @Daoss1.
 <!--
 **daossIT/daossIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
